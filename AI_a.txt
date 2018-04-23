@@ -1,5 +1,5 @@
 在 Feature_11111 下修改了文件 AI_a.txt
 在 Feature_22222 下修改了文件 AI_a.txt
-
+AI is the abbreviation of artificial intelligence
 
 
