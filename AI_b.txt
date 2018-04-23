@@ -1,0 +1,6 @@
+01.Google机器学习速成课程：
+	https://developers.google.cn/machine-learning/crash-course/
+02.极客Python之效率革命：
+	https://www.bilibili.com/video/av15834715/
+
+
